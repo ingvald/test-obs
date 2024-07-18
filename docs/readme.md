@@ -1,1 +1,2 @@
 test
+lenke til [README](../README.md)
