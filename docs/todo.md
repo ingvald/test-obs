@@ -1,3 +1,6 @@
 - [x] bilete
-- [x] fotnoter
+- [x] fotnoter[^1]
 - [ ] navigasjon
+# Footnotes
+
+[^1]: # Obsidian Footnotes Plugin ("footnotes shortcut")
