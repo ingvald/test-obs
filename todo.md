@@ -1,3 +1,3 @@
 - [x] bilete
-- [x] fotnoter
+- [ ] fotnoter
 - [ ] navigasjon
