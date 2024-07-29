@@ -6,8 +6,10 @@ lenke til [readme](docs/readme.md) [^1]
 fotnote
 gjenta fn[^1]
 hmm[^1]
+fn-test[^2]
 [todo](docs/todo.md)
 ..
 # Footnotes
 
 [^1]: fotnote øverst i tekst
+[^2]: fn-test...
