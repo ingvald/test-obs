@@ -3,7 +3,7 @@ lenke til [readme](docs/readme.md) [^1]
 
 ![image 20240729150052](res/image%2020240729150052.png)
 
-fotnote
+fotnoter
 gjenta fn[^1]
 hmm[^1]
 fn-test[^2]
